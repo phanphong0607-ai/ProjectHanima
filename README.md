@@ -5,7 +5,7 @@
 ---
 
 ## 🌸 Overview
-**SEEYOUIN4YEARSLATER** is an Indie Pixel Art RPG project inspired by the soul-stirring world of *Undertale*. More than just a game, this project serves as a chronicle of my 4-year academic odyssey at **UTH** (University of Transport and Communications HCMC), charting my path toward becoming a Game Engineer in Japan.
+**Project Hanima** is an Indie Pixel Art RPG project inspired by the soul-stirring world of *Undertale*. More than just a game, this project serves as a chronicle of my 4-year academic odyssey at **UTH** (University of Transport and Communications HCMC), charting my path toward becoming a Game Engineer in Japan.
 
 ## 🏮 The Lore
 The story follows **Hanima**, an ancient Relic crafted in the form of a soulless doll. Following the passing of her guardian—a dedicated Soul Harvester—Hanima experiences a spiritual awakening, manifesting **8 Core Souls** within her vessel. She now embarks on a journey to honor his legacy and fulfill her destiny as **The Soul Liberator**.
