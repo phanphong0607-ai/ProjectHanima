@@ -23,5 +23,5 @@ Developed with a "Low-level" mindset, prioritizing performance optimization and 
 - [ ] **Chapter 2.x:** Architecting code structure (Functions & Headers).
 
 ## ✉️ Contact
-* **Developer:** Phong (1st-year IT Student @ UTH)
+* **Developer:** The Potential Prototype (TPP) (1st-year IT Student @ UTH)
 * **Goal:** Japan Game Studios (Class of 2030)
